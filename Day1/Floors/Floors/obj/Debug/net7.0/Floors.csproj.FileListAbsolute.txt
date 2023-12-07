@@ -1,0 +1,15 @@
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/bin/Debug/net7.0/Floors
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/bin/Debug/net7.0/Floors.deps.json
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/bin/Debug/net7.0/Floors.runtimeconfig.json
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/bin/Debug/net7.0/Floors.dll
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/bin/Debug/net7.0/Floors.pdb
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/obj/Debug/net7.0/Floors.csproj.AssemblyReference.cache
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/obj/Debug/net7.0/Floors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/obj/Debug/net7.0/Floors.AssemblyInfoInputs.cache
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/obj/Debug/net7.0/Floors.AssemblyInfo.cs
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/obj/Debug/net7.0/Floors.csproj.CoreCompileInputs.cache
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/obj/Debug/net7.0/Floors.dll
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/obj/Debug/net7.0/refint/Floors.dll
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/obj/Debug/net7.0/Floors.pdb
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/obj/Debug/net7.0/Floors.genruntimeconfig.cache
+/Users/alekskonopacki/Desktop/Projects/AdventOfCode/Day1/Floors/Floors/obj/Debug/net7.0/ref/Floors.dll
